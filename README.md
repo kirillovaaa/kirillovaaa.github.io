@@ -8,4 +8,9 @@
   <a href="https://www.linkedin.com/in/александра-кириллова-05732625b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://www.linkedin.com/in/александра-кириллова-05732625b/">
+    <img src="https://img.shields.io/badge/Habr-Freelance-blue" alt="LinkedIn Badge"/>
+  </a>
 </div>
+
+
