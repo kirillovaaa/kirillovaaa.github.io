@@ -6,10 +6,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/александра-кириллова-05732625b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-orange" alt="Линк"/>
   </a>
-    <a href="https://www.linkedin.com/in/александра-кириллова-05732625b/">
-    <img src="https://img.shields.io/badge/Habr-Freelance-blue" alt="LinkedIn Badge"/>
+    <a href="https://freelance.habr.com/freelancers/kiri2lova/">
+    <img src="https://img.shields.io/badge/-Хабр%20Фриланс-blue" alt="Хабр Фриланс"/>
+  </a>
+      <a href="https://img.shields.io/badge/-Хабр%20Карьера-yellow/">
+    <img src="https://career.habr.com/kiri2lova" alt="Хабр Карьера"/>
   </a>
 </div>
 
