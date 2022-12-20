@@ -11,7 +11,7 @@
     <a href="https://freelance.habr.com/freelancers/kiri2lova/">
     <img src="https://img.shields.io/badge/-Хабр%20Фриланс-blue" alt="Хабр Фриланс"/>
   </a>
-      <a href="https://img.shields.io/badge/-Хабр%20Карьера-yellow/">
+      <a href="https://img.shields.io/badge/-Хабр%20Карьера-green">
     <img src="https://career.habr.com/kiri2lova" alt="Хабр Карьера"/>
   </a>
 </div>
