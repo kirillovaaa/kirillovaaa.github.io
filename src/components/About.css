@@ -1,0 +1,41 @@
+.about {
+  display: flex;
+  gap: 64px;
+}
+
+.about-image {
+  object-fit: cover;
+  aspect-ratio: 4/3;
+  min-width: 256px;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding-top: 40px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.about-text-title {
+  font-family: "Thunder", sans-serif;
+  font-weight: 500;
+  font-size: 88px;
+  line-height: 87.5%;
+}
+
+.about-more {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  color: var(--foreground-secondary);
+}
+
+.about-more-chevron {
+  stroke: var(--foreground-secondary);
+}
+
+.about-more-label {
+}

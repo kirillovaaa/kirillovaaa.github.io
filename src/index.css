@@ -33,6 +33,9 @@ html {
 body {
   margin: 0;
   font-family: "Iosevka", monospace;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
