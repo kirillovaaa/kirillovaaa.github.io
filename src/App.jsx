@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/Header";
 import Section from "./components/Section";
+import Contact from "./components/Contact";
 
 const App = () => (
   <div className="App">
@@ -15,6 +16,7 @@ const App = () => (
     </Section>
     <Section>
       <h2>Contact</h2>
+      <Contact />
     </Section>
   </div>
 );
