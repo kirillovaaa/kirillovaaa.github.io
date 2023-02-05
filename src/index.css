@@ -3,11 +3,17 @@
   font-family: "Iosevka";
   font-weight: 500;
 }
+@font-face {
+  src: url(./fonts/Thunder-MediumLC.woff2);
+  font-family: "Thunder";
+  font-weight: 500;
+}
 
 :root {
   --background: #ede2dc;
   --foreground-primary: #2d1407;
   --foreground-secondary: #c9ad9d;
+  --header-background: rgba(237, 226, 220, 0.5);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -15,6 +21,7 @@
     --background: #1d1612;
     --foreground-primary: #fbe1d3;
     --foreground-secondary: #76675f;
+    --header-background: rgba(29, 22, 18, 0.5);
   }
 }
 

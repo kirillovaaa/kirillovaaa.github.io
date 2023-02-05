@@ -7,6 +7,10 @@
   font-size: 18px;
   line-height: 24px;
   border-bottom: solid 1px var(--foreground-secondary);
+  background-color: var(--header-background);
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(40px);
 }
 
 .header-links {

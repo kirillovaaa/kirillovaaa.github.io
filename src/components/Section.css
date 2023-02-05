@@ -1,0 +1,18 @@
+h1,
+h2 {
+  font-family: "Thunder", sans-serif;
+  font-size: 176px;
+  font-weight: 500;
+  line-height: 87.5%;
+  max-width: 560px;
+  text-align: left;
+  text-transform: uppercase;
+  color: var(--foreground-secondary);
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  padding: 80px;
+  gap: 48px;
+}

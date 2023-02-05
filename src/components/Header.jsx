@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.css";
 
-const Header = () => {
+const Header = ({ location }) => {
   return (
     <header className="header">
       <div className="header-links">
@@ -12,7 +12,7 @@ const Header = () => {
       <p className="header-text">
         Traveling around the world 🗺️
         <br />
-        Currently in Rome 🍕
+        Currently in {location}
       </p>
     </header>
   );
