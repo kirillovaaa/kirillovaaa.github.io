@@ -1,3 +1,9 @@
+@font-face {
+  src: url(./fonts/iosevka-medium.woff2);
+  font-family: "Iosevka";
+  font-weight: 500;
+}
+
 :root {
   --background: #ede2dc;
   --foreground-primary: #2d1407;
@@ -19,11 +25,14 @@ html {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+  font-family: "Iosevka", monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
 }
 
 code {
