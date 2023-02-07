@@ -8,7 +8,7 @@ const About = () => (
     <img className="about-image" src={pussycat} />
     <div className="about-text">
       <h3 className="about-text-title">Sasha Kirilova</h3>
-      <p>I am a self made designer and developer og digital products</p>
+      <p>I am a self made designer and developer of digital products</p>
       <div className="about-more">
         <Chevron className="about-more-chevron" />
         <span>More</span>
