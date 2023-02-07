@@ -1,5 +1,6 @@
 .about {
   display: flex;
+  justify-content: space-between;
   gap: 64px;
 }
 
@@ -7,6 +8,7 @@
   object-fit: cover;
   aspect-ratio: 4/3;
   min-width: 256px;
+  max-width: 550px;
 }
 
 .about-text {
@@ -15,13 +17,14 @@
   gap: 12px;
   padding-top: 40px;
   text-align: right;
+  max-width: 600px;
   text-transform: uppercase;
 }
 
 .about-text-title {
   font-family: "Thunder", sans-serif;
   font-weight: 500;
-  font-size: 88px;
+  font-size: 120px;
   line-height: 87.5%;
 }
 
