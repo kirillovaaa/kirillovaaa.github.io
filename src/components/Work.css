@@ -1,0 +1,21 @@
+.work {
+  display: grid;
+  gap: 40px;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: space-between;
+}
+
+.image {
+  object-fit: cover;
+  width: 100%;
+  aspect-ratio: 3/4;
+  object-position: top center;
+  border-radius: 15px;
+  transition: box-shadow 0.15s ease-in-out;
+}
+
+.image:hover,
+.image:focus {
+  box-shadow: 0 0 0 4px var(--background), 0 0 0 6px var(--foreground-secondary);
+}
+/* убрать свечение */

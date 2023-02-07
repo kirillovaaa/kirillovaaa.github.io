@@ -4,6 +4,7 @@ import Header from "./components/Header";
 import Section from "./components/Section";
 import Contact from "./components/Contact";
 import About from "./components/About";
+import Work from "./components/Work";
 
 const App = () => (
   <div>
@@ -16,6 +17,7 @@ const App = () => (
 
       <Section>
         <h2>My Work</h2>
+        <Work />
       </Section>
 
       <Section>
