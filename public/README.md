@@ -20,5 +20,3 @@
     <img src="https://img.shields.io/badge/-Хабр%20Карьера-green" alt="Хабр Карьера"/>
   </a>
 </div>
-
-
