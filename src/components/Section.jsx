@@ -1,7 +1,11 @@
 import React from "react";
 import "./Section.css";
 
-const Section = ({ children }) => {
-  return <section className="section">{children}</section>;
+const Section = ({ id, children }) => {
+  return (
+    <section id={id} className="section">
+      {children}
+    </section>
+  );
 };
 export default Section;

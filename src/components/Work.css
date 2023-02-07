@@ -16,6 +16,7 @@
 
 .image:hover,
 .image:focus {
-  box-shadow: 0 0 0 4px var(--background), 0 0 0 6px var(--foreground-secondary);
+  box-shadow: 0 0 0 8px var(--background),
+    0 0 0 10px var(--foreground-secondary);
 }
 /* убрать свечение */

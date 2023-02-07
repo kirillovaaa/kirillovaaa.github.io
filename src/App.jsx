@@ -10,17 +10,17 @@ const App = () => (
   <div>
     <Header location="Yerevan 🍗" />
     <main>
-      <Section>
+      <Section id="main">
         <h1>Creative Developer</h1>
         <About />
       </Section>
 
-      <Section>
+      <Section id="work">
         <h2>My Work</h2>
         <Work />
       </Section>
 
-      <Section>
+      <Section id="contact">
         <h2>Contact</h2>
         <Contact />
       </Section>
