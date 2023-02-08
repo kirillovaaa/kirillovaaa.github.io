@@ -36,3 +36,9 @@
 .header-text {
   text-align: right;
 }
+
+@media all and (max-width: 768px) {
+  .header-text {
+    display: none;
+  }
+}
