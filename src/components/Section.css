@@ -16,3 +16,14 @@ h2 {
   padding: 80px;
   gap: 48px;
 }
+
+@media all and (max-width: 1024px) {
+  h1,
+  h2 {
+    font-size: 100px;
+  }
+  .section {
+    padding: 24px;
+    gap: 24px;
+  }
+}

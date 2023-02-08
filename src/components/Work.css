@@ -19,4 +19,9 @@
   box-shadow: 0 0 0 8px var(--background),
     0 0 0 10px var(--foreground-secondary);
 }
-/* убрать свечение */
+@media all and (max-width: 768px) {
+  .work {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
