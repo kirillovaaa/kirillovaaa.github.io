@@ -1,6 +1,6 @@
 import React from "react";
 import Chevron from "./Chevron";
-import pussycat from "../images/pussycat.jpg";
+// import pussycat from "../images/pussycat.jpg";
 import "./About.css";
 
 const About = () => (
